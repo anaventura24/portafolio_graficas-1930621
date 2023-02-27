@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\Fernanda\source\repos\prueba\prueba\FileName.cpp(139,5): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Fernanda\source\repos\prueba\prueba\FileName.cpp(180,5): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  prueba.vcxproj -> C:\Users\Fernanda\source\repos\prueba\x64\Debug\prueba.exe
